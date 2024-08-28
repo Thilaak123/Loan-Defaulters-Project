@@ -1,4 +1,5 @@
 # Loan-Defaulters-Project
+The primary goal of this project is to develop a predictive model that can assess the risk of loan default for loan applicants. The objective is to help financial institutions make informed decisions about whether to approve or reject loan applications
 
 •	Industry Understanding
 How banking sector works, How loan process works, from a individual point of view, starting from application to amount disbursement 
